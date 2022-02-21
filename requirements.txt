@@ -7,6 +7,9 @@ streamlit
 streamlit-folium
 streamlit-keplergl
 streamlit-bokeh-events
+scikit-learn
+altair==4.1.0
+pandas
 # leafmap
 # geemap
 git+https://github.com/giswqs/leafmap
